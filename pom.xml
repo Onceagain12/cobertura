@@ -118,7 +118,7 @@
         <asmVersion>5.0.1</asmVersion>
         <oroVersion>2.0.8</oroVersion>
         <jaxenVersion>1.1.4</jaxenVersion>
-        <commonsioVersion>2.2</commonsioVersion>
+        <commonsioVersion>2.7</commonsioVersion>
         <commonslangVersion>3.3.2</commonslangVersion>
         <antVersion>1.9.3</antVersion>
         <jettyVersion>6.1.14</jettyVersion>
